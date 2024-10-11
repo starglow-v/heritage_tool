@@ -27,7 +27,7 @@ This project focuses on simplicity, efficiency, and production-readiness, using 
    ``` bash
    git clone https://github.com/starglow-v/heritage-tool.git
    cd heritage-tool
-  ```
+
 
 2. Fetch the dependencies by running the following command:
 
@@ -42,8 +42,9 @@ Query by Category: To filter and retrieve all Cultural sites from the dataset, r
 
   ``` bash
   mix heritage.query --category Cultural
+   ```
+
   To filter Natural sites, run:
-  ```
 
   ``` bash
   mix heritage.query --category Natural

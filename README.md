@@ -25,7 +25,7 @@ This project focuses on simplicity, efficiency, and production-readiness, using 
 1. Clone this repository to your local machine:
 
    ``` bash
-   git clone https://github.com/your-username/heritage-tool.git
+   git clone https://github.com/starglow-v/heritage-tool.git
    cd heritage-tool
   ```
 
